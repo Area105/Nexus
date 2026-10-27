@@ -1,13 +1,17 @@
 {
   "android": {
-    "version": "1.0.10",
-    "code": 14,
+    "version": "1.0",
+    "code": 16,
     "url": "https://area105.github.io/Nexus/#download",
-    "notes": ["First release."]
+    "notes": [
+      "First release."
+    ]
   },
   "windows": {
-    "version": "1.0.10",
+    "version": "1.0",
     "url": "https://area105.github.io/Nexus/#download",
-    "notes": ["First release."]
+    "notes": [
+      "First release."
+    ]
   }
 }
