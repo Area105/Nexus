@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Nexus — Your apps. Your controls." width="100%">
+  <img src="logo.svg" alt="Nexus logo" width="180">
 </p>
 
 <h1 align="center">Nexus</h1>
