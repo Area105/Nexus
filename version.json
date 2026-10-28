@@ -1,10 +1,10 @@
 {
   "android": {
     "version": "1.0",
-    "code": 17,
+    "code": 18,
     "url": "https://area105.github.io/Nexus/#download",
     "notes": [
-      "The screen now stays on while Nexus is open."
+      "A smoother Nexus, with small fixes throughout."
     ]
   },
   "windows": {
