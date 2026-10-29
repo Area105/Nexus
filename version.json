@@ -2,13 +2,15 @@
   "android": {
     "version": "1.0",
     "code": 19,
-    "url": "https://area105.github.io/Nexus/#download",
+    "url": "https://drive.usercontent.google.com/download?id=17w2-Drl_ZbY6GJAdtT2ADpIOhVvAgYku&export=download&confirm=t",
     "notes": [
       "A smoother Nexus, with small fixes throughout."
     ]
   },
   "windows": {
     "version": "1.0",
+    "build": 2,
+    "download": "https://drive.usercontent.google.com/download?id=1zcD7f1nm95GJcE2kqwmGGhqe8g_8d-Lo&export=download&confirm=t",
     "url": "https://area105.github.io/Nexus/#download",
     "notes": [
       "First release."
