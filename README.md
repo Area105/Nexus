@@ -8,13 +8,13 @@
 
 <p align="center">
   Nexus turns your phone into a fast, wireless control deck for your own PC —<br>
-  your real apps, media, files and controls, over your home Wi-Fi. No cloud. No account.
+  your real apps, media, files and controls, right on your phone. No cloud. No account.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0-12a594" alt="Version 1.0">
   <img src="https://img.shields.io/badge/platform-Windows%20%2B%20Android-0e5550" alt="Platform: Windows + Android">
-  <img src="https://img.shields.io/badge/connection-home%20Wi--Fi%20only%20%C2%B7%20no%20cloud-0b3b3a" alt="Home Wi-Fi only — no cloud">
+  <img src="https://img.shields.io/badge/connection-works%20at%20home%20%C2%B7%20no%20cloud-0b3b3a" alt="Works at home · no cloud">
 </p>
 
 ---
@@ -59,15 +59,15 @@ The page carries the Windows PC app and the Android app. Please download Nexus o
 
 3. **Pair once** — scan the QR code (or type the PIN) shown on your PC. After that, your phone connects on its own.
 
-Everything runs on your home Wi-Fi, directly between your phone and your PC. There is no server in between, no sign-up, and nothing leaves your network.
+Everything runs right between your phone and your PC — no server in between, no sign-up, and nothing leaves your home. The two just have to be connected the same way: both on the same Wi-Fi, or your PC plugged in by cable while your phone is on Wi-Fi, or your phone's hotspot if you don't have Wi-Fi.
 
 ## Requirements
 
 - A **Windows** PC
 - An **Android** phone
-- Both connected to the **same home Wi-Fi network**
+- Both connected **the same way** — same Wi-Fi, or PC plugged in by cable while the phone is on Wi-Fi, or a phone hotspot
 
-That's all — no account, no cables, nothing in between.
+That's all — no account, no internet needed, nothing in between.
 
 ## Updates
 
@@ -79,7 +79,7 @@ Nexus keeps itself up to date. The PC app checks for new versions and offers the
 
 Nexus is **local by design**:
 
-- It works only on your own home network (LAN) — it has no cloud and no accounts.
+- It works only inside your own home — it has no cloud and no accounts.
 
 - Pairing is protected by a PIN and a per-device token; only devices you pair can connect.
 
