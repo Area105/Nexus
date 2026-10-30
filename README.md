@@ -87,7 +87,7 @@ Nexus is **local by design**:
 
 ## Feedback
 
-Questions, ideas, or something not working? Message the feedback bot on Telegram: **[@NexusFeedbackApp_Bot](https://t.me/NexusFeedbackApp_Bot)**
+Questions, ideas, or something not working? Send feedback or ideas on Telegram: **[@NexusFeedbackApp_Bot](https://t.me/NexusFeedbackApp_Bot)** · or on Instagram: **[@prasadsonawanehere](https://instagram.com/prasadsonawanehere)**
 
 ---
 
